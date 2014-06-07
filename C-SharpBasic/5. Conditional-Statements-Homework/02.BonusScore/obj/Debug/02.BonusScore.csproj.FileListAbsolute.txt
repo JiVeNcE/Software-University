@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache

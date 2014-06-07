@@ -1,0 +1,6 @@
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.exe.config
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.pdb
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\6.LongestAreaInArray\obj\Debug\6.LongestAreaInArray.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\6.LongestAreaInArray\obj\Debug\6.LongestAreaInArray.pdb
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\6.LongestAreaInArray\obj\Debug\6.LongestAreaInArray.csprojResolveAssemblyReference.cache

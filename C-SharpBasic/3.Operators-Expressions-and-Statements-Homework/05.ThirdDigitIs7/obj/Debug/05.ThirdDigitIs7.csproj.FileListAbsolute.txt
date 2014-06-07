@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

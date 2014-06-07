@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

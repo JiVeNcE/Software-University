@@ -1,0 +1,6 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe.config
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\11.RandomNumbers\bin\Debug\11.RandomNumbers.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\11.RandomNumbers\obj\Debug\11.RandomNumbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\11.RandomNumbers\obj\Debug\11.RandomNumbers.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\11.RandomNumbers\obj\Debug\11.RandomNumbers.pdb

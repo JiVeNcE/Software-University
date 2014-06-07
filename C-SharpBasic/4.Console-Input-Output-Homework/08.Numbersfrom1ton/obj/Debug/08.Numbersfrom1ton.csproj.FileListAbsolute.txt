@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\08.Numbersfrom1ton\bin\Debug\08.Numbersfrom1ton.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\08.Numbersfrom1ton\bin\Debug\08.Numbersfrom1ton.pdb
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\08.Numbersfrom1ton\obj\Debug\08.Numbersfrom1ton.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\08.Numbersfrom1ton\obj\Debug\08.Numbersfrom1ton.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\08.Numbersfrom1ton\obj\Debug\08.Numbersfrom1ton.pdb

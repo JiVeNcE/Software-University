@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache

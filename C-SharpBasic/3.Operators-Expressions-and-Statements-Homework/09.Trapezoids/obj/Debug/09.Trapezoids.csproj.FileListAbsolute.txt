@@ -1,0 +1,6 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

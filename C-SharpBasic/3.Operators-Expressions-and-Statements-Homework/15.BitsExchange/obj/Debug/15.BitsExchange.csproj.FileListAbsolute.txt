@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

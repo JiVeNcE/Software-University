@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

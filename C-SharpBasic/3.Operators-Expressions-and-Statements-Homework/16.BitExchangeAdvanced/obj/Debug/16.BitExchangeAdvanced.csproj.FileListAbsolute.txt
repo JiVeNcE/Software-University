@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

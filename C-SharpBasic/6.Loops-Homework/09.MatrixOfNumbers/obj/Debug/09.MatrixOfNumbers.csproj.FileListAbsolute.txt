@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

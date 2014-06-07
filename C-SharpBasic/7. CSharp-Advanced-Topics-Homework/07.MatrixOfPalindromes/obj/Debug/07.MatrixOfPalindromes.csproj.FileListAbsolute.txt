@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

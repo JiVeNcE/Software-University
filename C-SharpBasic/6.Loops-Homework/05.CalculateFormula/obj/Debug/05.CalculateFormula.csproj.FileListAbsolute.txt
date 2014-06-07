@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\05.CalculateFormula\bin\Debug\05.CalculateFormula.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\05.CalculateFormula\bin\Debug\05.CalculateFormula.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\05.CalculateFormula\obj\Debug\05.CalculateFormula.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\05.CalculateFormula\obj\Debug\05.CalculateFormula.pdb

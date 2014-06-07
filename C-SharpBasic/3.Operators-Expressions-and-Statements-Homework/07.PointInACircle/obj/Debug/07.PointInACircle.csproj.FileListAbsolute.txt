@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache

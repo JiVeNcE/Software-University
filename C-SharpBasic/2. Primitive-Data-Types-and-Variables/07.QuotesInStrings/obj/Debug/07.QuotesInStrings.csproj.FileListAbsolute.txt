@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

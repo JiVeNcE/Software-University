@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\06.CalculateNandK\bin\Debug\06.CalculateNandK.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\06.CalculateNandK\bin\Debug\06.CalculateNandK.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\06.CalculateNandK\obj\Debug\06.CalculateNandK.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\06.CalculateNandK\obj\Debug\06.CalculateNandK.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\06.CalculateNandK\obj\Debug\06.CalculateNandK.pdb

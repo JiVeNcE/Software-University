@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\04.UnicodeValue\bin\Debug\04.UnicodeValue.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\04.UnicodeValue\bin\Debug\04.UnicodeValue.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\04.UnicodeValue\obj\Debug\04.UnicodeValue.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\04.UnicodeValue\obj\Debug\04.UnicodeValue.pdb

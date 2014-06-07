@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\01.DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb

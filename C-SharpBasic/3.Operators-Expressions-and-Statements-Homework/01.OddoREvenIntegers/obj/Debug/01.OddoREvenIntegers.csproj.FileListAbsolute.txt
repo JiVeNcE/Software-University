@@ -1,0 +1,6 @@
+D:\PROGRAMMING\C#0\Operators-Expressions-and-Statements-Homework\01.OddoREvenIntegers\bin\Debug\01.OddoREvenIntegers.exe.config
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\01.OddoREvenIntegers\bin\Debug\01.OddoREvenIntegers.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\01.OddoREvenIntegers\bin\Debug\01.OddoREvenIntegers.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\01.OddoREvenIntegers\obj\Debug\01.OddoREvenIntegers.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\01.OddoREvenIntegers\obj\Debug\01.OddoREvenIntegers.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\01.OddoREvenIntegers\obj\Debug\01.OddoREvenIntegers.pdb

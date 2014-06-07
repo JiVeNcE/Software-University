@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\18.TrailingZeroesInN!\bin\Debug\18.TrailingZeroesInN!.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\18.TrailingZeroesInN!\bin\Debug\18.TrailingZeroesInN!.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\18.TrailingZeroesInN!\obj\Debug\18.TrailingZeroesInN!.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\18.TrailingZeroesInN!\obj\Debug\18.TrailingZeroesInN!.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\18.TrailingZeroesInN!\obj\Debug\18.TrailingZeroesInN!.csprojResolveAssemblyReference.cache

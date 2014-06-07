@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\03.MinMaxSumAndAverage\bin\Debug\03.MinMaxSumAndAverage.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\03.MinMaxSumAndAverage\obj\Debug\03.MinMaxSumAndAverage.pdb

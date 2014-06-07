@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\07.CalculateFactorialFunction\bin\Debug\07.CalculateFactorialFunction.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\07.CalculateFactorialFunction\bin\Debug\07.CalculateFactorialFunction.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\07.CalculateFactorialFunction\obj\Debug\07.CalculateFactorialFunction.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\07.CalculateFactorialFunction\obj\Debug\07.CalculateFactorialFunction.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\07.CalculateFactorialFunction\obj\Debug\07.CalculateFactorialFunction.pdb

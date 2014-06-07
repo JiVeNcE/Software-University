@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

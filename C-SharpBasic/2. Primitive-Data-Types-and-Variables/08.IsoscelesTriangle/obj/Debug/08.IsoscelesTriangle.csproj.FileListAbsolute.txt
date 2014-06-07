@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

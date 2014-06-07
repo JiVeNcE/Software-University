@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\07.NumbersWithNestedIfs\bin\Debug\07.NumbersWithNestedIfs.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\07.NumbersWithNestedIfs\bin\Debug\07.NumbersWithNestedIfs.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\07.NumbersWithNestedIfs\obj\Debug\07.NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\07.NumbersWithNestedIfs\obj\Debug\07.NumbersWithNestedIfs.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\07.NumbersWithNestedIfs\obj\Debug\07.NumbersWithNestedIfs.pdb

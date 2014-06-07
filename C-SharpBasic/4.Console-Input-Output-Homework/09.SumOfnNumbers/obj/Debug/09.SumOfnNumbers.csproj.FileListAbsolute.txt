@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.pdb
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.pdb
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

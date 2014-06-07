@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

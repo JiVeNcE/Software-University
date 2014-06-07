@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

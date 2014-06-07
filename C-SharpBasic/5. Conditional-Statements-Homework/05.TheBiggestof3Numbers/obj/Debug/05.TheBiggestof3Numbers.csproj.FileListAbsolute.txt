@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.exe.config
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.pdb

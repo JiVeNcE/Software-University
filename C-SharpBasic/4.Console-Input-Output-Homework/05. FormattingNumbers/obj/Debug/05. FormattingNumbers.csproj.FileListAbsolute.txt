@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb
+D:\PROGRAMMING\C#0\4. Console-Input-Output\Console-Input-Output-Homework\05. FormattingNumbers\obj\Debug\05. FormattingNumbers.csprojResolveAssemblyReference.cache

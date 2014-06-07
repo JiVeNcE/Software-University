@@ -1,0 +1,6 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\02.FloatОrDouble\bin\Debug\02.FloatОrDouble.exe.config
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\02.FloatОrDouble\bin\Debug\02.FloatОrDouble.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\02.FloatОrDouble\bin\Debug\02.FloatОrDouble.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\02.FloatОrDouble\obj\Debug\02.FloatОrDouble.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\02.FloatОrDouble\obj\Debug\02.FloatОrDouble.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\02.FloatОrDouble\obj\Debug\02.FloatОrDouble.pdb

@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\12.RandomizeNumbers1toN\obj\Debug\12.RandomizeNumbers1toN.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\12.RandomizeNumbers1toN\obj\Debug\12.RandomizeNumbers1toN.pdb

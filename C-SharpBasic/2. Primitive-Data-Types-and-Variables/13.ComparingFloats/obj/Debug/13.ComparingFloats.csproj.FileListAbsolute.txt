@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

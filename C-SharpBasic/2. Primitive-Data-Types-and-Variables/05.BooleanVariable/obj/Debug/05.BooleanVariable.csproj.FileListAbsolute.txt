@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

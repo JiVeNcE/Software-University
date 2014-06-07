@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.pdb

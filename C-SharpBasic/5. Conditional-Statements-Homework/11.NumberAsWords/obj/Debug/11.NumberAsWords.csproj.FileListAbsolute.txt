@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\PROGRAMMING\C#0\5. Conditional-Statements\5. Conditional-Statements-Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

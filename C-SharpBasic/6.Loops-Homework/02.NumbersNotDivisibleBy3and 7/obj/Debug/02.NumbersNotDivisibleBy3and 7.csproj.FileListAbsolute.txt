@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\02.NumbersNotDivisibleBy3and 7\bin\Debug\02.NumbersNotDivisibleBy3and 7.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\02.NumbersNotDivisibleBy3and 7\bin\Debug\02.NumbersNotDivisibleBy3and 7.pdb
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\02.NumbersNotDivisibleBy3and 7\obj\Debug\02.NumbersNotDivisibleBy3and 7.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\02.NumbersNotDivisibleBy3and 7\obj\Debug\02.NumbersNotDivisibleBy3and 7.exe
+D:\PROGRAMMING\C#0\6. Loops\Loops-Homework\02.NumbersNotDivisibleBy3and 7\obj\Debug\02.NumbersNotDivisibleBy3and 7.pdb

@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\PROGRAMMING\C#0\7. CSharp-Advanced\7. CSharp-Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

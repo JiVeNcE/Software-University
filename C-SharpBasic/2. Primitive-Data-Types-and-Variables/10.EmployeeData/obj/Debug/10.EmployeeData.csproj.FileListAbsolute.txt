@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

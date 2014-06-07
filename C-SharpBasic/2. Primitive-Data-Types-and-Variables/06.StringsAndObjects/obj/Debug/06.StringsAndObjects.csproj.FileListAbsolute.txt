@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\PROGRAMMING\C#0\Primitive-Date-Types-And-Variables - Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

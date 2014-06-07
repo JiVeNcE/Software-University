@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\13.CheckBitGivenPosition\bin\Debug\13.CheckBitGivenPosition.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\13.CheckBitGivenPosition\bin\Debug\13.CheckBitGivenPosition.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\13.CheckBitGivenPosition\obj\Debug\13.CheckBitGivenPosition.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\13.CheckBitGivenPosition\obj\Debug\13.CheckBitGivenPosition.pdb

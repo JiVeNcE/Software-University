@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\04.Rectangles\bin\Debug\04.Rectangles.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\04.Rectangles\bin\Debug\04.Rectangles.pdb
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\PROGRAMMING\C#0\3.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\04.Rectangles\obj\Debug\04.Rectangles.pdb
