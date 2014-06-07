@@ -1,0 +1,6 @@
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+D:\PROGRAMMING\C#0\1.Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+D:\PROGRAMMING\C#0\1.Introduction to Programming\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

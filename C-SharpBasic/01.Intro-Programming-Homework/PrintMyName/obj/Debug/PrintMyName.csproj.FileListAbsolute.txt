@@ -1,0 +1,4 @@
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

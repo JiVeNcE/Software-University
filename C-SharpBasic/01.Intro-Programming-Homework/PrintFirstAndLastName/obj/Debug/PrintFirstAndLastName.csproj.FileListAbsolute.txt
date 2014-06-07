@@ -1,0 +1,4 @@
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

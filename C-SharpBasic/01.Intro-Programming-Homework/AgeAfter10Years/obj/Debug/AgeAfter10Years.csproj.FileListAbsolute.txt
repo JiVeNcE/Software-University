@@ -1,0 +1,5 @@
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.csprojResolveAssemblyReference.cache

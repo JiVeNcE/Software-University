@@ -1,0 +1,7 @@
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Zhivko\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\5.SquareRoot.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#0\1.Introduction to Programming\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\PROGRAMMING\C#0\1.Introduction to Programming\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb

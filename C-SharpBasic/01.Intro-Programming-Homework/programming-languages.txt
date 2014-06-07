@@ -1,0 +1,17 @@
+Short list with information about the most popular programming languages
+
+1. JacaScript ---- JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side programming, game development and the creation of desktop and mobile applications. 
+Javascript is a non-typed scripting language, which means it typically runs uncompiled in browsers. 
+C# is a strongly-typed language, which is typically compiled into a .dll. 
+They do have similar syntax, however.
+
+
+2. CSS --- Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. While most often used to style web pages and interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. CSS is a cornerstone specification of the web and almost all web pages use CSS style sheets to describe their presentation.
+
+3. PHP --- PHP allows you to create non-static pages and interact with databases.PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. PHP is now installed on more than 244 million websites and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1995, the reference implementation of PHP is now produced by The PHP Group. While PHP originally stood for Personal Home Page,[6] it now stands for PHP: Hypertext Preprocessor, a recursive backronym.
+
+
+4. Objective C ---- Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. It is the main programming language used by Apple for the OS X and iOS operating systems and their respective APIs, Cocoa and Cocoa Touch.
+
+5. Ruby ---- A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+Ruby is easy to learn. Everyday tasks are simple to code, and once you've done them, they are easy to maintain and grow. Apparently difficult things often turn out not to have been difficult after all. Ruby follows the Principle of Least Surprise---things work the way you would expect them to, with very few special cases or exceptions. And that really does make a difference when you're programming.  
