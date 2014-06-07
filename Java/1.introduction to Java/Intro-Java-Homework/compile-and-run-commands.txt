@@ -1,0 +1,7 @@
+1.cd до директорията в която се намира файла.java
+
+2.Въвеждане на java.jdk1.8.0_05 в Computer/MyComputer -> Properties -> Advanced System Settings -> Environment Variables. На System variables Path -> Edit
+
+3.javac SumtwoNumbers.java
+
+4.java SumTwoNumbers
