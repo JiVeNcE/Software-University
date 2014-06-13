@@ -1,0 +1,141 @@
+/** header */
+#header, header
+{
+	width:100%;
+	height:90px;
+	background-color:#234465;
+}	
+/** logo */
+#logo 
+{
+	position: absolute; 
+	left:3%; 
+	top: 3%;
+}
+/** beta */
+#beta, beta
+{
+	position: absolute;
+	top: 4%;
+	left: 20%;
+	color: #fff;
+	font-size:12px;
+}
+/** notificationsIcon */
+#notificationsIcon, notificationsIcon
+{
+	position: absolute; 
+	right:30%; 
+	top: 26px;
+}
+/** zero */
+#zero, zero
+{
+	position: absolute;
+	top: 29px;
+	right: 430px;
+	color: #fff;
+	font-size:12px;
+}
+	/** user */
+#user{
+	position: absolute;
+	top: 32px;
+	right: 335px;
+	color: #fff;
+	font-size:12px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+	/** caret */
+.caret {
+display: inline-block;
+width: 0;
+height: 0;
+margin-left: 4px;
+vertical-align: middle;
+border-top: 6px solid;
+border-right: 4px solid transparent;
+border-left: 4px solid transparent;
+}
+	/** searchInput */
+.searchInput {
+	position: absolute;
+	top: 29px;
+	right: 150px;
+	padding: 0px 0px 0px 5px;
+	border-radius: 5px 0px 0px 5px;
+	border: none;
+	height: 20px;
+	width: 170px;
+	color: #234465;
+}
+	/** searchButton */
+.searchButton {
+	position: absolute;
+	top: 29px;
+	right: 134px;
+	width: 20px;
+	height: 20px;
+	vertical-align: top;
+	background: white;
+	border: 0;
+	border-left: 1px solid #d5d5d5;
+	border-collapse: collapse;
+	margin: 0;
+	background-image: url("images/zoom.png");
+	background-position: 107px;
+	background-repeat: no-repeat;
+	border-radius: 0px 5px 5px 0px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+	/** searchlogo */
+#searchlogo{
+	position: absolute;
+	top: 2px;
+	right: 1px;
+}
+	
+		/** nav */
+#nav {
+	position: absolute;
+	top: 60px;
+	left: 370px;
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+	font-size:15px;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+}
+
+#nav li {
+    margin: 0px;
+    display: inline;
+}
+
+#nav li a {
+    padding: 9px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    float: left
+}
+
+#nav li a:hover {
+    color: #FFFFFF;
+    background-color: #519eeb;
+	border-radius: 5px;
+}
+
+
+
