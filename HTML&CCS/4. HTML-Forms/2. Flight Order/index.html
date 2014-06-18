@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+		<title>Flight Order</title>
+	<style>		
+		#flight-order{
+			width:405px;
+			background-color:#ffc0cb;		
+		}
+		h2{
+			color:#000000;
+			font-style:italic;
+			margin-left:96px;	
+		}
+		#fligt-form{
+			margin-left:10px;
+		}
+		select[type='entCity']{
+			width:190px;
+		}
+		label[type='from']{
+			position:absolute;
+			left:19px;
+			top:61px;
+		}
+		label[type='to']{
+			position:absolute;
+			left:212px;
+			top:61px;
+		}
+		label[type='Departure']{
+			position:absolute;
+			left:19px;
+			top:125px;
+		}
+		label[type='TimeFirst']{
+			position:absolute;
+			left:212px;
+			top:125px;
+		}
+		label[type='Return']{
+			position:absolute;
+			left:19px;
+			top:179px;
+		}
+		label[type='timeInterval']{
+			position:absolute;
+			left:212px;
+			top:179px;
+		}
+		.inline {
+			display: inline;
+		}
+		#prefdir{
+		margin-left: 192px;
+		position:absolute;
+		top:103px;
+		font-size:14px;
+		}
+		input[type='date']{
+			position:absolute;
+			left:17px;
+			top:142px;
+			width:187px;	
+		}
+		input[type='number']{
+		margin-top:28px;
+			width:57px;
+		
+		}
+		label[type="12+"]{
+			position:absolute;
+			top:236px;
+			t-size:14px;
+		}
+		select[type='chooseClass']{
+		width:190px;
+		}
+		input[type='submit']{
+		width:190px;
+		height:27px;
+		margin-left:195px;
+		}
+		
+	</style>
+</head>
+
+	<body>
+		<div id="flight-order">
+			<div>
+				<h2><i>FLIGHT ORDER<i><h2>
+			</div>
+			
+			<div id="fligt-form">
+				<form>
+					<label type="from" for="from">From</label>			
+					<select name="enter a city" type="entCity">
+						<option value="Value 1">enter a city</option>
+						<option value="Value 2">Varna</option>
+						<option value="Value 3">Sofiq</option>
+					</select>
+					
+					<label type="to" for="to">To</label>				
+					<select name="enter a city" type="entCity">
+						<option value="Value 1">enter a city</option>
+						<option value="Value 2">Varna</option>
+						<option value="Value 3">Sofiq</option>
+					</select>
+						<div id="prefdir">
+							<input name="preferDirect" type="checkbox" id="preferDirect" />
+							<label for="preferDirect"   class="inline">Prefer direct</label>
+						</div>
+
+					<label type="Departure" for="Departure">Departure Date</label>	
+					<input name="startDate" type="date" />
+
+
+					<label type="TimeFirst" for="TimeFirst" >Time Interval</label>
+					<input name="arrivalTime" type="time" style="margin-right: 0px; margin-top:41px;margin-left: 195px; width:89px"/>
+					<input name="arrivalTime" type="time" style="width:89px" />
+					
+					<label type="Return" for="Departure">Return Date</label>	
+					<input name="startDate" type="date" style=" margin-top:59px;" />
+
+
+					<label type="timeInterval" for="Time Interval" >Time Interval</label>
+					<input name="Time Interval" type="time" style="margin-right: 0px; margin-top:31px;margin-left: 195px; width:89px"/>
+					<input name="Time Interval" type="time" style="width:89px" />
+					</br>
+					
+					<label type="12+" for="12+">12+</label>	
+					<input type="number" min="0" max="100" />
+					<label type="12+" for="2-12">2-12</label>	
+					<input type="number" min="0" max="100" />
+					<label type="12+" for="0-2">0-2</label>	
+					<input type="number" min="0" max="100" />
+					
+					<label type="12+" for="chooseClass">Choose class</label>			
+					<select name="enter a city" type="chooseClass">
+						<option value="Value 1">Economy</option>
+						<option value="Value 2">Business</option>
+					</select>
+
+					<input type="submit" value="Search" />
+					<br></br>
+				
+				</form>
+			</div>		
+		</div>
+	
+	</body>
+</html>

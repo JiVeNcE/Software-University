@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Simple Form</title>
+	<style>
+		#table-form{
+			height:338px;
+			margin-right:698px;
+			background-color:#eeeeee;
+			color:666666;
+		}	
+		h2{
+			color:#234465;
+		}
+		h3{
+			color:#234465;
+		}
+		#firstForm{
+			margin-top:1px;
+			margin-left:13px;
+			padding-bottom:111px;
+		}
+		#secondForm{
+			width:305px;
+			height:136px;
+			position:absolute;
+			left:307px;
+			top:97px;
+			margin-top:1px;
+			margin-left:20px;
+			padding-bottom:100px;
+			background-color:#234465;
+		}
+		input, select {
+			width: 290px;
+			height: 34px;
+			margin-top:0;
+			margin-bottom:9px;
+			margin-left:7px;
+			box-sizing: border-box;
+		}
+		.regBtn{
+			width: 145px; 
+			color:#234465;
+			background-color:#eeeeee;
+			font-size: 12px; 
+			font-weight: bold;
+			margin-left:152px;
+			display: block ;
+		    border: 2px solid #234465 ;
+
+		}
+		.logBtn{
+			position:absolute;
+			right:8px;
+			top:120px;
+			width: 115px; 
+			color:#ffffff;
+			background-color:#234465;
+			font-size: 12px; 
+			font-weight: bold;
+		    border: 2px solid #ff9c00 ;
+		}	
+		#forgPsw{
+			position:absolute;
+			right:20px;
+			top:160px;
+			color:#ffffff;
+			font-size:11px;
+			font-weight: bold;
+			text-decoration:underline
+		}
+		input[type='checkbox']{
+			position:absolute;
+			right:275px;
+			top:123px;
+			width: 19px;
+			height:18px;
+
+		}
+		label, div.label{
+			position:absolute;
+			right:195px;
+			top:120px;
+			color:#ffffff;
+			font-size:13px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div id="table-form">
+		<div>
+		<h2>&nbsp;&nbsp;Enter the system</h2>
+		&nbsp;&nbsp;&nbsp;It is necessary to login in Your account in order to sign in for a course.
+		</div>
+		
+		<div id=firstForm>
+			<p style="height:8px;"><strong>&nbsp;&nbsp;ARE YOU NEW? <font color="234465">REGISTER</font></strong><p>
+			
+			<form>
+				<input type="text" name="userName" required="true"  placeholder="User name"/>
+				</br>
+				<input type="Email" name="Email" required="true"  placeholder="Email"/>
+				</br>
+				<input type="Password" name="Password" required="true"  placeholder="Password"/>
+				</br>
+				<input type="Password" name="Confirm Password" required="true"  placeholder="Confirm Password"/>
+				</br>
+				<input class="regBtn" type="submit" value="Register"/>
+
+			</form>
+			
+		</div>
+		
+				<div id=secondForm>
+			<p style="margin:8px ; height:10px"><strong> <font color="ffffff">ALREADY A STUDENT? LOGIN</font></strong><p>
+			
+			<form>
+				<input type="text" name="userName" required="true"  placeholder="User name"/>
+				</br>
+				<input type="Password" name="Password" required="true"  placeholder="Password"/>
+				</br>
+				</br>
+				<input class="logBtn" type="submit" value="Login" id="login-checkbox"/>
+				<div id="checkbox">
+					<input type="checkbox" name="agree" value="yes" id="remember-checkbox">
+					<label class="checkbox" for="remember-checkbox">Remember me?</label>
+				</div>
+			</form>
+			
+			<div id="forgPsw">Forgot Paswword</div>
+		</div>	
+	</div>
+</body>
+
+</html>

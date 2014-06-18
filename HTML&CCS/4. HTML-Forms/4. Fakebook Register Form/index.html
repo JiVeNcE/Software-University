@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>HTML 5 Forms - Reversed Tab Index</title>
+	
+	<style>
+	#blank{
+		background-color:#3b5997;
+		width: 757px;
+		color: white;
+		padding-left:12px;
+	}
+	#firBlank{		
+		width:317px;
+	}	
+	#secBlank{
+		position:absolute;
+		top:20px;
+		top:350px;
+		left:337px;
+	}
+	fieldset{  
+		border-radius: 7px;   
+	}
+	h1{
+		font-size: 125px;
+		height:55px;
+		margin-left:112px;		
+	}
+	h2{
+		text-align: center;
+		font-size: 50px;
+		height: 33px;
+	}
+	h3{
+		text-align: center;
+		font-size: 25px;
+	}
+	input{
+		border-radius: 5px;  
+		height:18px;
+		width: 122px;
+		margin-bottom:6px;
+		font-size:11px;
+	}
+	input[type="datetime"]{
+		width: 190px;
+		font-size:11px;
+	}
+	input[type="radio"]{		
+		width: 24px;
+		height: 12px;
+		font-size:10px;
+		margin-left:0;
+		margin-right:0;
+		font-size:11px;
+	}
+	input[type="data"]{
+		width: 60px;
+	}
+	select{
+		border-radius: 5px; 
+		height:23px;
+		width: 125px;
+		font-size:11px;
+	}
+	textarea{
+		border-radius: 5px; 
+		font-size:11px;
+		width:382px;
+		height:55px;
+	}
+	label{
+		font-size:13px;
+	}
+	input[type="reset"]{
+		border-radius: 8px; 
+		width: 291px;
+		height: 48px;
+		font-size:16px;
+		font-color:#3b5997;
+	}
+	input[type="submit"]{
+		border-radius: 8px; 	
+		width: 422px;
+		height: 48px;
+		font-size:21px;
+		font-color:#3b5997;	
+	}
+	</style>
+</head>
+
+<body>
+		<div id="blank">
+			<h1>fakebook<font size="5">  &reg;</font></h1>
+			<h2>Registration</h2>
+			<h3>It is safe and it will always be!</h3>
+		
+		
+	<form>
+		<div id="firBlank">
+			<fieldset style="width: 257px; height:212px;">
+				<legend>None-Important Information</legend>
+				<input type="text" name="firstName" placeholder="First Name"/>
+				<input type="text" name="lastName" placeholder="Last Name"/>
+				<input type="email" name="yourEmail" placeholder="Your Email"/>
+				<input type="tel" name="phoneNumber" placeholder="Phone Number"/>
+				<input type="password" name="yourPassword" placeholder="Your Password" />
+				<input type="url" name="Website" placeholder="Website" />
+				</br>
+				<label>Birthday</label></br>
+				<input name="startDate" type="datetime"  value="2014-09-05 01:58 PM" />
+				</br>
+			
+					<input type="radio" name="female" id="female"/>  
+					<label class="inline" for="female">Female</label>
+					<input type="radio" name="female" id="male"/>  
+					<label class="inline" for="male">Male</label>
+					<input type="radio" name="female" id="other"/>  
+					<label class="inline" for="other">Other</label>
+			</fieldset>
+			
+			</br>
+			<input type="reset" value="Clear Form"  />
+		</div>
+		<div id="secBlank">
+			<fieldset style="width: 390px">
+				<legend>Important Information *required</legend>
+					<select name="country">
+						<option value="Value 1">Country<option>
+						<option value="Value 2">Bulgaria<option>
+						<option value="Value 3">USA<option>
+					</select>
+
+				<input type="text" name="village" placeholder="Village"/>
+				<input type="text" name="district" placeholder="District"/>
+				<input type="text" name="street" placeholder="Street"/>
+				<input type="data" name="nr" placeholder="Nr"/>
+				<input type="data" name="floor" placeholder="Floor"/>
+				<input type="data" name="apNr" placeholder="Ap Nr"/>
+					</br>
+				<label>Door Color</label></br>
+					<input type="color" name="pickcolor"/>
+				<input type="text" name="WaterMeterNr" placeholder="Water Meter Nr"/>
+				
+					<select name="AuntPanties">
+						<option value="Value 1">Aunt Panties`Size<option>
+						<option value="Value 2">10<option>
+						<option value="Value 3">20<option>
+					</select>
+					</br>
+				<label>More Personal Information</label></br>
+				<textarea name="comments">Give us  More Information!!!</textarea>
+			</fieldset>
+				</br>
+				<input type="submit" value="Register"/>
+		</div>
+	</form>
+		</div>
+</body>
+
+</html>

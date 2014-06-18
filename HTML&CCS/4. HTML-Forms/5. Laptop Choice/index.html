@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Laptop Choice</title>
+	<meta charset="utf-8">
+	<style>
+		body{
+			background: #edeeee;
+			font-family: Calibri;
+			color: #103564;
+		}
+		#result{
+			position:absolute;
+			left:40px;
+			top:20px;
+		}
+		#laptops{
+			position:absolute;
+			top:161px;
+		}
+		h2{
+			font-size:39px;
+		}
+		#table-sliders{
+			margin-top: 10px;
+			background: white;
+			height: 565px;
+			width: 300px;
+			border: 1px solid #58c4b1;
+			border-radius: 10px;
+			padding-top: 0px;
+		}
+		#table-sliders td{
+			border:none;
+		}
+		.min-label{
+			float:left;
+		}
+		.max-label{
+			float-right;	
+		}
+		input[type="range"]{
+			width:180px;
+			margin-left:20px;
+			margin-right:20px;
+		}
+		.bold{
+			font-weight: bolder;
+			font-size: 1em;
+			text-align: center;
+		}
+		.range-val-label {
+			font-weight: bold;
+			font-size: 16px;
+			float: right;
+		}
+		.price-label {
+			background: #103564;
+			border-top-left-radius: 10px;
+			border-bottom-right-radius: 10px;
+			width: 80px;
+			height: 30px;
+			padding: 10px 5px 0px 5px;
+			margin: 0px -2px -2px 0px;
+			color: white;
+			text-align: center;
+			float: right;	
+			text-shadow: 1px 1px 1px black;
+			font-size: 0.9em;
+		}
+		button:hover{
+			cursor: pointer;
+		}
+
+		button:active{
+			border: none;
+		}
+
+		td img {
+			width: 100%;
+		}
+		
+		button{
+			background: transparent;
+			border: none;
+			text-align: center;
+			font-family: Calibri;
+			color: #103564;
+			padding: 0px;
+			margin: 0px;
+		}
+		#laptop-table td{
+			border: 1px solid #58c4b1;
+			border-radius: 10px;
+			width: 200px;
+			background: white;
+			height: 100%;	
+		}
+		#sliders{
+			position:absolute;
+			right:383px;
+			top:20px;
+		}
+	</style>
+</head>
+
+<body>
+				<div id="result">
+					<h2>Лаптопи Apple(6)</h2>
+				</div>
+	
+			<div id="laptops" >
+			
+			<table id="laptop-table" cellspacing="10px">
+				<tr>		
+					<td>	
+						<button onclick="window.open('http://www.novmak.com/t/apple-macbookair/z0nx001/macbook-air-11-dual-core-i5-1-4ghz-4gb-128gb-flash-intel-hd-graphics-5000-s-bg-klaviatura-i-turbo-boost-up-to-2-7ghz')">
+									<span class="bold">Apple MacBook Air</span><br>
+									<span>11.6 inch/1.3GHz</br>Haswell</span><br>
+
+									<img src="images/mac-air.png"/>
+
+						</button>
+
+								<div class="price-label">
+									1825.00 лв.
+								</div>
+					</td>
+					
+					<td>	
+						<button onclick="window.open('http://www.novmak.com/t/apple-macbookair/z0ny002/macbook-air-11-dual-core-i5-1-4ghz-4gb-256gb-flash-intel-hd-graphics-5000-s-bg-klaviatura-i-turbo-boost-up-to-2-7ghz')">
+									<span class="bold">Apple MacBook Air</span><br>
+									<span>11.6 inch/1.4GHz</br>Haswell</span><br>
+
+									<img src="images/mac-air-new.png"/>
+
+						</button>
+
+								<div class="price-label">
+									2215.00 лв.
+								</div>
+					</td>
+					
+					<td>	
+						<button onclick="window.open('http://www.novmak.com/t/apple-macbookair/z0nz002/macbook-air-13-dual-core-i5-1-4ghz-4gb-128gb-flash-intel-hd-graphics-5000-s-bg-klaviatura-i-turbo-boost-up-to-2-7ghz');">
+									<span class="bold">Apple MacBook Air</span><br>
+									<span>13.3 inch/1.4GHz</br>Haswell</span><br>
+
+									<img src="images/mac-air.png"/>
+
+						</button>
+
+								<div class="price-label">
+									2020.00 лв.
+								</div>
+					</td>		
+				</tr>
+				
+								<tr>		
+					<td>	
+						<button onclick="window.open('http://www.novmak.com/t/apple-macbookair/z0p0004/macbook-air-13-dual-core-i5-1-4ghz-4gb-256gb-flash-intel-hd-graphics-5000-s-bg-klaviatura-i-turbo-boost-up-to-2-7ghz');">
+									<span class="bold">Apple MacBook Air</span><br>
+									<span>13.3 inch/1.4GHz</br>Haswell</span><br>
+
+									<img src="images/mac-air.png"/>
+
+						</button>
+
+								<div class="price-label">
+									2410.00 лв.
+								</div>
+					</td>
+					
+					<td>	
+						<button onclick="window.open('http://www.novmak.com/t/apple-macbookair/z0p0004/macbook-air-13-dual-core-i5-1-4ghz-4gb-256gb-flash-intel-hd-graphics-5000-s-bg-klaviatura-i-turbo-boost-up-to-2-7ghz');">
+									<span class="bold">Apple MacBook Air</span><br>
+									<span>11.6 inch/1.4GHz</br>Haswell 256GB SSD</span><br>
+
+									<img src="images/mac-air-new.png"/>
+
+						</button>
+
+								<div class="price-label">
+									2600.00 лв.
+								</div>
+					</td>
+					
+					<td>	
+						<button onclick="window.open('http://www.novmak.com/t/apple-macbookpro/z0qa00063/macbook-pro-13-retina-display-dual-core-i5-2-4ghz-4gb-128gb-flash-intel-iris-pro-graphics-s-bg-klaviatura-i-turbo-boost-up-to-2-9ghz');">
+									<span class="bold">Apple MacBook Pro</span><br>
+									<span>13.3 inch/2.5GHz Ivy</br>Bridge</span><br>
+
+									<img src="images/mac-pro.png"/>
+
+						</button>
+
+								<div class="price-label">
+									2550.00 лв.
+								</div>
+					</td>		
+				</tr>
+				
+				
+				
+				
+			</table>
+			
+			
+			</div>
+
+
+		<div id="sliders">
+			<table id="table-sliders">
+			
+				<tr>
+					<td>	
+						<span class="bold">Цена</span>
+						<span class="range-val-label" id="range-val-price">
+					</td>
+				</tr>	
+				
+				<tr>
+					<td>				
+						<input type="range" min="100" max="3000" step="100" id="price"
+						onchange="document.getElementById('range-val-price').innerHTML = this.value + ' лв.';"/>
+						
+						<span class="min-label">600</span>
+						<span class="max-label">4000</span>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>	
+						<span class="bold">РАМ памет</span>
+						<span class="range-val-label" id="range-val-ram">
+					</td>
+				</tr>	
+				
+				<tr>
+					<td>				
+						<input type="range" min="512" max="8192" step="256" id="ram"
+						onchange="document.getElementById('range-val-ram').innerHTML = this.value"/>
+						
+						<span class="min-label">256</span>
+						<span class="max-label">4098</span>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>	
+						<span class="bold">Твърд Диск</span>
+						<span class="range-val-label" id="range-val-hdd">
+					</td>
+				</tr>	
+				
+				<tr>
+					<td>				
+						<input type="range" min="100" max="3000" step="100" id="hdd"
+						onchange="document.getElementById('range-val-hdd').innerHTML = this.value + ' GB';"/>
+						
+						<span class="min-label">100</span>
+						<span class="max-label">2000</span>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>	
+						<span class="bold">Размер на екрана</span>
+						<span class="range-val-label" id="range-val-display">
+					</td>
+				</tr>	
+				
+				<tr>
+					<td>				
+						<input type="range" min="10.1" max="18.1" step="0.1" id="display"
+						onchange="document.getElementById('range-val-display').innerHTML = this.value + ' инча';"/>
+						
+						<span class="min-label">10.1</span>
+						<span class="max-label">18.1</span>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>	
+						<span class="bold">Тегло</span>
+						<span class="range-val-label" id="range-val-weight">
+					</td>
+				</tr>	
+				
+				<tr>
+					<td>				
+						<input style=" margin-left: 39px;" type="range" min="1.0" max="6.0" step="0.1" id="weight"
+						onchange="document.getElementById('range-val-weight').innerHTML = this.value + ' kg.';"/>
+						
+						<span class="min-label">1</span>
+						<span class="max-label">6</span>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>	
+						<span class="bold">Гаранция</span>
+						<span class="range-val-label" id="range-val-warantly">
+					</td>
+				</tr>	
+				
+				<tr>
+					<td>				
+						<input style=" margin-left: 31px;" type="range" min="12" max="60" step="6" id="countRange"
+						onchange="document.getElementById('range-val-warantly').innerHTML = this.value + ' месеца';"/>
+						
+						<span class="min-label">12</span>
+						<span class="max-label">60</span>
+					</td>
+				</tr>
+
+			</table>
+		</div/>
+	
+</body>
+
+</html>
