@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Magic Car Gallery</title>
+		<style>
+			#gallery{
+				background-color:#000000;			
+				width:800px;
+				height:400px;
+				border-radius:10px;
+				padding-left:25px;
+			}
+			h1{
+				color:#f3f01b;
+				text-align:center;
+				font-size:50px;		
+			}
+			#frame{
+				display:inline-block;
+			}
+			#cars{
+				display:inline-block;
+				margin-left:25px;
+				font-size:42px;
+			}
+			a {
+				text-decoration:none;
+				
+			}
+			a:active {
+				color: white;
+			}
+			a:visited {
+				color: white;
+			}
+			a:hover {
+			color: #f3f01b;
+			}	
+		</style>
+
+</head>
+<body>
+	<div id="gallery">
+	
+			<h1>Magic Car Gallery</h1>
+			
+			<div id="frame">
+				<iframe style="border: 3px solid #f3f01b;" name="imgbox" id="imgbox" width="300" height="220" 
+				src="images/gtv.jpg" frameborder="0" scrolling="no">
+				<p>Your browser does not support iframes.</p>
+				</iframe>
+			</div>
+			
+			<div id="cars">
+				<a href="images/alfa4c.jpg" target="imgbox" style="text-decoration:none;">Alfa Romeo 4C</a><br />
+				<a href="images/ferarri.jpg" target="imgbox">Ferarri 458 Italia</a><br />
+				<a href="images/gtv.jpg" target="imgbox">Alfa Romeo GTV</a><br />
+				<a href="images/maserati.jpg" target="imgbox">Maserati GranCabrio</a><br />
+				<a href="images/veneno.jpg" target="imgbox">Lamorgini Veneno</a><br />
+			</div>	
+	</div>
+</body>
+</html>

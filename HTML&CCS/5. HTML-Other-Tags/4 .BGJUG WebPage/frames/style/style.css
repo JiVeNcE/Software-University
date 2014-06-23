@@ -1,0 +1,107 @@
+
+*{
+	font-family:Tahoma;
+}
+/* unvisited link */
+a:link {
+	color: #225E9B;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+	color: #225E9B;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+	color: #225E9B;
+	text-decoration: none;
+}
+#navContainer{
+	margin-top:50px;
+}
+nav li{
+	display:inline;
+	margin-right:60px;
+	text-decoration: none;
+	text-color:#8c8c8c;
+}
+#input{
+	position:absolute;
+	top:96px;
+	right:57px;
+}
+input{
+	width:212px;
+	height:23px;
+}
+#searchButton{
+	position: absolute;
+	top:1px;
+	right: 4px;
+	width: 24px;
+	height: 20px;
+	vertical-align: top;
+	background: white;
+	border: 0;
+	border-collapse: collapse;
+	margin: 0;
+	background-image: url("images/zoom.png");
+	background-position: 107px;
+	background-repeat: no-repeat;
+
+aside li{
+	list-style-type: none;
+	padding-bottom:10px;
+}
+section{
+	float:right;
+	margin-top:30px;
+	padding-bottom:5px;
+}
+.widget-title
+	line-height: 1.2em;{
+	border-bottom: 1px solid #9EA326;
+}
+
+.inline {
+	display:inline-block;
+	margin-left:3em;
+	margin-right:2em;
+	margin-top:1em;
+	color:white;
+	vertical-align:text-top;	
+				
+}
+#contents{
+	width:1341px;
+	height:600px;
+	background-color:#000000;
+	padding-bottom:1px;
+	
+}
+#twetrerBar{
+	background-color:#f3f1f1;
+	height:43px;
+	width:1341px		
+	margin-top: 42px;
+
+				
+}
+#twett{
+	font-size:14px;
+	padding-top:11px;
+	padding-left:50px;
+	font-style:italic;
+}
+article{
+	color:#acacac;
+	padding-bottom:1px;
+}
