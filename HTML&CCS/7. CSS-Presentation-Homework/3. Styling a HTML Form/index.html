@@ -1,0 +1,91 @@
+<!DOCTYPE>
+<html xml:lang="en" lang="en">
+<head>
+    <title>Styling a HTML Form</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+        <form class="styling-form">
+        <div id="field">
+
+                <h1>Step 1:Your details</h1>
+             <div>
+                <label for="firstName">
+                    <span>Name</span>
+                    <input type="text" id="firstName" placeholder="First and last name" required="true"/>
+                </label>
+             </div>
+            <div>
+                <label for="email">
+                     <span>Email</span>
+                    <input type="email" id="email" placeholder="example@domain.com" required="true"/>
+                </label>
+            </div>
+                <div>
+                <label for="tel">
+                     <span>Phone</span>
+                    <input type="tel" id="tel" placeholder="eg. +447500000000" required="true"/>
+                </label>
+              </div>
+
+                <h1>Step 1:Delivery address</h1>
+
+            <div>
+                <label for="address">
+                    <span>Address</span>
+                    <textarea type="text" id="address" required="true"></textarea>
+                </label>
+            </div>
+             <div>
+                <label for="postcode">
+                    <span>Post code</span>
+                    <input type="text" id="postcode"  required="true"/>
+                </label>
+                </div>
+            <div>
+                <label for="country">
+                    <span>Country</span>
+                    <input type="text" id="country"  required="true"/>
+                </label>
+            </div>
+
+                <h1>Step 1:Card details</h1>
+            <div class="cardtype">
+                <label>
+                    <span>Card type</span>
+                    <input type="radio" name="visa"/>
+                    <img src="resources/visa.png" /> VISA</label>
+                <label>
+                    <input type="radio" name="AmEx"/>
+                <img src="resources/amex.png" /> AmEx</label>
+                <label>
+                    <input type="radio" name="Mastercard"/>
+                <img src="resources/mastercard.png" /> Mastercard</label>
+                </label>
+            </div>
+            <div>
+                <label for="cardnumber">
+                    <span>Card number</span>
+                    <input type="text" id="cardnumber" required="true"/>
+                </label>
+            </div>
+            <div>
+                <label for="securitycode">
+                    <span>Security code</span>
+                    <input type="text" id="securitycode"  required="true"/>
+                </label>
+            </div>
+            <div>
+                <label for="nameoncard">
+                    <span>Name on card</span>
+                    <input type="text" id="nameoncard"  required="true" placeholder="exact name as on card"/>
+                </label>
+            </div>
+            <label>
+                <span>&nbsp;</span>
+                <button> BUY IT!</button>
+             </label>
+        </div>
+    </form>
+</body>
+</html>

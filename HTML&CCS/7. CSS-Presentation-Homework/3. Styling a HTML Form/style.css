@@ -1,0 +1,97 @@
+
+#field{
+    width: 413px;
+    background-image: url("resources/formBackground.jpg");
+    border-radius: 5px;
+}
+
+.styling-form h1{
+    color:#eaeaea;
+    font-size: 13pt;
+    font-weight: lighter;
+    font-family: Arial;
+    display: block;
+    margin-left: 20px;
+
+}
+
+.styling-form div{
+    display:block;
+    width:370px;
+    background-color: rgba(255,255,255,0.4);
+    margin-bottom:2px;
+    margin-left: 20px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid rgba(255,255,255,0.7)
+}
+
+.styling-form label>span{
+    float: left;
+    width: 90px;
+    text-align: left;
+    padding-right: 10px;
+    margin-top: 6px;
+    margin-left: 5px;
+}
+
+
+.styling-form input[type="text"], input[type="tel"], input[type="email"]{
+    width:200px;
+    height:25px;
+    border-radius: 3px;
+    padding-left:5px;
+    margin-top:5px;
+    margin-left: 15px;
+}
+
+.styling-form textarea{
+    width:200px;
+    height:85px;
+    border-radius: 3px;
+    padding-left:5px;
+    margin-top:5px;
+    margin-left: 15px;
+}
+
+.cardtype{
+   height: 70px;
+}
+
+.cardtype label>span {
+    width: 600px;
+}
+.cardtype img {
+     display: inline-block;
+     padding-top: 1px;
+     width:30px;
+     height: 28px;
+     font-size: 10pt;
+     vertical-align: -11px
+ }
+
+.cardtype label {
+    font-size: 10pt;
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
+
+.styling-form input[type="radio"] {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.styling-form button{
+    height: 29px;
+    width: 100px;
+    margin-left: 55px;
+    background-color:#04152f ;
+    border-radius: 30px;
+    color: white;
+    border-color: #04152f;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+
+
