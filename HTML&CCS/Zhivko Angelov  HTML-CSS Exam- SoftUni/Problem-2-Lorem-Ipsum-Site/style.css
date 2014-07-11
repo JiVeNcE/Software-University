@@ -1,0 +1,164 @@
+
+html, body, header, section, article, div, nav, aside, ul, li, img, h1, h2, h5, p {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+}
+
+#header{
+    width: 100%;
+    background-color: #eeeeee;
+}
+
+
+#wrapper header{
+    margin: 0 auto;
+    width: 920px;
+    background-color: #eeeeee;
+    text-align: center;
+    padding: 30px;
+}
+
+#wrapper header .logo{
+   display: table-cell;
+    vertical-align: middle;
+    padding-right: 50px;
+}
+
+#wrapper header nav{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#wrapper header nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 50px;
+    box-sizing: border-box;
+    width: 85px;
+    color: #626161;
+}
+
+#wrapper header nav ul li a {
+     text-decoration: none;
+     color: #81819c;
+ }
+
+#wrapper header nav ul li .active {
+   color:red;
+}
+
+#wrapper header nav ul li a:hover {
+    border-radius: 10px;
+    background-color: #cad1d1;
+    padding: 13px;
+    color: black;
+}
+
+#wrapper section{
+    margin: 50px auto;
+    width: 840px;
+    background-color: white;
+    text-align: left;
+
+}
+
+#wrapper section h1{
+    margin-bottom: 30px;
+}
+
+#wrapper section article {
+    width: 400px;
+    display: inline-block;
+    margin-right: 10px;
+    white-space: pre-line;
+    vertical-align: top;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #eeeeee;
+    border-top: 2px solid #d8d8d8;
+
+}
+
+#wrapper footer {
+    display: inline-block;
+    width: 920px;
+    height: 140px;
+    background-color: #eeeeee;
+    text-align: left;
+
+}
+
+#wrapper footer .right{
+    display: inline-block;
+  margin-top: 60px;
+}
+
+#sprite{
+    display:  inline-block;
+    float: right;
+    margin-top: 50px;
+}
+
+#sprite ul li  {
+    display: inline-block;
+    list-style-type: none;
+    height: 30px;
+    margin-right: 10px;
+
+}
+
+#sprite ul li a:hover{
+    cursor:pointer;
+}
+
+#fb {
+    width: 31px;
+    background: url('images/icons.png') 0 0;
+}
+
+#gplus {
+    width: 31px;
+    background: url('images/icons.png') 0 110px;
+}
+
+#tweet {
+    width: 31px;
+    background: url('images/icons.png') 0px 70px;
+}
+
+#t {
+    width: 31px;
+    background: url('images/icons.png') 0px 30px;
+}
+
+#fb:hover {
+    width: 31px;
+    background: url('images/icons.png') 31px 0;
+}
+
+#gplus:hover {
+    width: 31px;
+    background: url('images/icons.png') 31px 110px;
+}
+
+#tweet:hover {
+    width: 31px;
+    background: url('images/icons.png') 31px 70px;
+}
+
+#t:hover {
+    width: 31px;
+    background: url('images/icons.png') 31px 30px;
+
+}
+
+

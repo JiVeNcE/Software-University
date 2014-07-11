@@ -1,0 +1,147 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(images/glyphicons-halflings-regular.ttf);
+}
+
+html{
+    background:url(images/blurred-green-background.jpg) no-repeat;
+    background-size: cover;
+    height:100%;
+}
+
+body{
+    font-family: "Arial", "Helvetica", "myFirstFont", sans-serif ;
+    margin: 0;
+    padding: 0;
+}
+
+#form-div {
+    margin: 40px auto;
+    background-color:rgba(241,247,227,0.7);
+    width: 350px;
+    height: 265px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#form-div .title {
+     position: relative;
+     left: 0px;
+     width: 350px;
+     height: 40px;
+     background-color: #93d55c;
+     text-align: center;
+     color: white;
+     font-size: 10px;
+     border-top-right-radius: 10px;
+     border-top-left-radius: 10px;
+ }
+
+#form-div .title h1 {
+    padding-top: 6px;
+}
+
+#form-div input{
+    width: 250px;
+    height: 34px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 8pt;
+    border: 1px solid #cccccc;
+}
+
+#form-div .email{
+    display: inline-block;
+    width: 30px;
+    height: 25px;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: -6px;
+    margin-left: 35px;
+    padding-top: 7px;
+}
+
+#form-div .passord{
+    display: inline-block;
+    width: 30px;
+    height: 25px;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: -6px;
+    margin-left: 35px;
+    padding-top: 7px;
+}
+#form-div .email:before {
+    color: #555555;
+    content: "\e008";
+  }
+
+#form-div .passord:before {
+    color: #555555;
+     content: "\e033";
+ }
+
+#search-content .search:before {
+    content: "\e003";
+}
+
+#form-div .submit{
+    text-align: center;
+}
+
+#form-div .submit input{
+    width: 284px;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: #5cb85c;
+    box-shadow: 2px 2px 1px 1px #229e22;
+    color: white;
+    font-size: 10pt;
+}
+
+#form-div .submit input:hover{
+    background-color: #449d44;
+    cursor:pointer;
+}
+#search-content{
+    margin-top: 47px;
+    display: block;
+
+}
+
+#search-content input{
+    display: inline-block;
+    width: 270px;
+    height: 34px;
+    border: 1px solid #cccccc;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-left: 10px;
+}
+#search-content .search {
+    display: inline-block;
+    width: 72px;
+    height: 32px;
+    background-color: #5cb85c;
+    border: 1px solid #229e22;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    color: white;
+    font-size: 11pt;
+    line-height: 33px;
+    vertical-align: bottom;
+    margin-left: -5px;
+    padding-left: 7px;
+}
+#search-content .search:hover{
+    background-color: #449d44;
+    cursor: pointer;
+}
