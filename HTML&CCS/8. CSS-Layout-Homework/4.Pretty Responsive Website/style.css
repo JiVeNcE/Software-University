@@ -1,0 +1,196 @@
+html, body, header, section, article, div, nav, aside, ul, li, img, h1, h2, h5, p {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    font-family: Arial;
+}
+
+#wrapper{
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+    /*FlexBox*/
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+#wrapper header {
+    background: url("images/headerBackground.jpg");
+    width: 100%;
+    height: 270px;
+    color: white;
+    position: relative;
+    margin-bottom: 0;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+#wrapper header h1{
+    text-align: right;
+    padding-top: 20%;
+    padding-right: 5%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+#wrapper h1 {
+    color:#84be19;
+    margin-bottom: 20px;
+
+}
+
+#wrapper nav {
+    width: 100%;
+    height: 7%;
+    background-color:#e3e3e3;
+    margin: 0;
+    border-style:double;
+    border-top-width: 0;
+    border-right-width:0;
+    border-left-width:0;
+    border-bottom-width: 6px;
+    border-color: white;
+}
+
+#wrapper nav ul{
+    list-style-type: none;
+    width: 100%;
+    height: 45px;
+    background-color: #E2E2E2;
+}
+
+#wrapper nav ul li{
+    box-sizing: border-box;
+    display: inline-block;
+    height: 100%;
+    width: 110px;
+    font-size: 1.1em;
+    text-align: center;
+    color: #626161;
+    text-transform: uppercase;
+    border-right: 2px solid white;
+    padding-top: 12px;
+    background-color: #E2E2E2;
+    margin-right: -3px;
+
+}
+
+#wrapper nav ul li a {
+    text-decoration: none;
+    color: #626161;
+}
+
+
+#wrapper nav ul li:hover {
+    cursor: pointer;
+    background-color: #BCBCBC;
+    color: white;
+}
+
+#wrapper>nav>ul>li:last-child, #wrapper>nav>ul>li:nth-last-child(2) {
+    width: 140px;
+}
+
+#wrapper aside {
+    width: 25%;
+    order: 5;
+    margin-right: 3%;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin-top: 15px;
+
+}
+
+
+#wrapper aside .news{
+
+    background-color: #eeeeee;
+    border-radius: 10px;
+    padding: 20px;
+    height: 250px;
+
+}
+
+#wrapper  aside div{
+     margin-bottom: 20px;
+ }
+
+#wrapper  aside article div{
+    font-size: 9pt;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+#wrapper  aside div a{
+    color:#84be19;
+}
+
+#wrapper aside .messages{
+    background-color: white;
+    border:1px solid #e8e8e8;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+    height: 300px;
+}
+
+#wrapper section {
+    order: 2;
+    width: 66%;
+    margin-left: 3%;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#wrapper section article {
+    order: 2;
+    width: 100%;
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+#wrapper section article img{
+    float: left;
+    margin-right: 15px;
+}
+
+#wrapper section article h5{
+    margin-bottom: 15px;
+
+}
+
+#wrapper section article div{
+    font-size: 12pt;
+    margin-bottom:30px;
+}
+
+#wrapper footer{
+    float: left;
+    height: 70px;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    order: 10;
+    background-color: #9dd43b;
+}
+
+@media only screen and (max-width: 1140px) {
+    #wrapper {
+        width: 80%;
+    }
+}
+
