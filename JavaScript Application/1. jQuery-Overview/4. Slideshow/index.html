@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <div>
+        <div id="first">This is the 111111111 slide
+            <button id="firstButton" type="button">Next  2  slide</button>
+        </div>
+        <div id="second">
+            <button id="secondButton" type="button2">Previos  1  slide</button>
+            That is the 2222 slide
+        </div>
+    </div>
+    <script>
+        $('#first').css('visibility', 'visible');
+        $('#second').css('visibility', 'hidden');
+ 
+        $('#firstButton').click(function () {
+            $('#first').css('visibility', 'hidden');
+            $('#second').css('visibility', 'visible');
+        });
+        $('#secondButton').click(function () {
+            $('#first').css('visibility', 'visible');
+            $('#second').css('visibility', 'hidden');
+        });
+    </script>
+</body>
+</html>
