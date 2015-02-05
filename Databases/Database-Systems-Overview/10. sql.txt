@@ -1,0 +1,66 @@
+SQL (Structured Query Language)
+
+The spread of dynamic websites on the World Wide Web today is largely due to the possibility for their content to be handled through databases. Database management is a complicated process, which has been considerably rationalized by the SQL programming language. As its full name (Structured Query Language) implies, SQL is responsible for querying and editing information stored in a certain database management system.
+
+SQL Standard
+The SQL Standard has gone through a lot of changes during the years, which have added a great deal of new functionality to the standard, such as support for XML, triggers, regular expression matching, recursive queries, standardized sequences and much more. Due to SQL Standard’s sheer volume, a lot of database solutions based on it, such as MySQL or PostgreSQL, do not implement the whole standard. In a lot of cases, the database behavior for file storage or indexes is not well defined and it's up to the vendors of the various SQL implementations to decide how the database will behave. This is the reason why, even though all SQL implementations have the same base, they are rarely compatible.
+
+Encyclopedia
+Hosting
+FTP
+Domains
+DNS
+Email
+Scripting
+Frameworks
+Databases
+Internet
+Multimedia
+Web Design
+Videos
+Video Tutorials
+SQL (Structured Query Language)
+
+The spread of dynamic websites on the World Wide Web today is largely due to the possibility for their content to be handled through databases. Database management is a complicated process, which has been considerably rationalized by the SQL programming language. As its full name (Structured Query Language) implies, SQL is responsible for querying and editing information stored in a certain database management system.
+
+Content:
+SQL History
+SQL Standard
+SQL Language elements
+SQL queries
+SQL data control, definition and manipulation
+SQL data manipulation
+SQL data definition
+SQL data control
+SQL with NTC Hosting
+
+ 
+SQL History
+The origins of the SQL take us back to the 1970s, when in the IBM laboratories, new database software was created - System R. And to manage the data stored in System R, the SQL language was created. At first it was called SEQUEL, a name which is still used as an alternative pronunciation for SQL, but was later renamed to just SQL.
+
+In 1979, a company called Relational Software, which later became Oracle, saw the commercial potential of SQL and released its own modified version, named Oracle V2.
+
+Now into its third decade of existence, SQL offers great flexibility to users by supporting distributed databases, i.e. databases that can be run on several computer networks at a time. Certified by ANSI and ISO, SQL has become a database query language standard, lying in the basis of a variety of well established database applications on the Internet today. It serves both industry-level and academic needs and is used on both individual computers and corporate servers. With the progress in database technology SQL-based applications have become increasingly affordable for the regular user. This is due to the introduction of various open-source SQL database solutions such as MySQL, PostgreSQL, SQLite, Firebird, and many more.
+
+SQL Standard
+The SQL Standard has gone through a lot of changes during the years, which have added a great deal of new functionality to the standard, such as support for XML, triggers, regular expression matching, recursive queries, standardized sequences and much more. Due to SQL Standard’s sheer volume, a lot of database solutions based on it, such as MySQL or PostgreSQL, do not implement the whole standard. In a lot of cases, the database behavior for file storage or indexes is not well defined and it's up to the vendors of the various SQL implementations to decide how the database will behave. This is the reason why, even though all SQL implementations have the same base, they are rarely compatible.
+
+SQL Language elements
+The SQL language is based on several elements. For the convenience of SQL developers all necessary language commands in the corresponding database management systems are usually executed through a specific SQL command-line interface (CLI).
+
+Clauses - the clauses are components of the statements and the queries
+
+Expressions - the expressions can produce scalar values or tables, which consist of columns and rows of data
+
+Predicates - they specify conditions, which are used to limit the effects of the statements and the queries, or to change the program flow
+
+Queries - a query will retrieve data, based on a given criteria
+
+Statements - with the statements one can control transactions, program flow, connections, sessions, or diagnostics. In database systems the SQL statements are used for sending queries from a client program to a server where the databases are stored. In response, the server processes the SQL statements and returns replies to the client program. This allows users to execute a wide range of amazingly fast data manipulation operations from simple data inputs to complicated queries.
+
+SQL queries
+The SQL queries are the most common and essential SQL operations. Via an SQL query, one can search the database for the information needed. SQL queries are executed with the “SELECT” statement. An SQL query can be more specific, with the help of several clauses:
+
+FROM - it indicates the table where the search will be made.
+WHERE - it's used to define the rows, in which the search will be carried. All rows, for which the WHERE clause is not true, will be excluded.
+ORDER BY - this is the only way to sort the results in SQL. Otherwise, they will be returned in a random order.

@@ -1,0 +1,6 @@
+A table is a collection of related data held in a structured format within a database. It consists of fields (columns), and rows.
+
+ Each single piece of data (such as the account number) is a field in the table. A column consists of all the entries in a single field, such as the telephone numbers of all the customers. Fields, in turn, are organized as records, which are complete sets of information (such as the set of information about a particular customer), each of which comprises a row. The process of normalization determines how data will be most effectively organized into tables.
+
+Table: In a table each column attributes are independent, In a table row order & column order are mandatory & that cannot be changed, Table can be of more than 2 dimentions, There may be of rows and columns duplication in a table. Relation: In a Relation in which all attributes are dependent in one or the other way, The row and column orders are not considered, Relation is always 2 dimentional, There cannot be duplication of rows and columns in a relation.
+ Table There is no difference they both refers to the collection of rows and colls which used to store data. 

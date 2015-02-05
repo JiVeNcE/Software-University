@@ -1,0 +1,6 @@
+A primary key is a field or combination of fields that uniquely identify a record in a table, so that an individual record can be located without confusion.
+A foreign key (sometimes called a referencing key) is a key used to link two tables together. Typically you take the primary key field from one table and insert it into the other table where it becomes a foreign key (it remains a primary key in the original table)
+
+1.Foreign keys do not automatically create an index, clustered or non-clustered. You must manually create an index on foreign keys.
+2.There are actual advantages to having a foreign key be supported with a clustered index, but you get only one per table. What's the advantage? If you are selecting the parent plus all child records, you want the child records next to each other. This is easy to accomplish using a clustered index.
+3.Having a null foreign key is usually a bad idea. In the example below, the record in [dbo].[child] is what would be referred to as an "orphan record". Think long and hard before doing this.

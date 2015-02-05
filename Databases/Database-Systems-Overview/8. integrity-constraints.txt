@@ -1,0 +1,7 @@
+Constraints and Integrity
+
+
+A constraint is a limitation that you place on the data that users can enter into a column or group of columns. A constraint is part of the table definition; you can implement constraints when you create the table or later. You can remove a constraint from the table without affecting the table or the data, and you can temporarily disable certain constraints.
+The distinction between column-level and table-level constraints is that you define a column-level constraint on one column only. Therefore, you can define it as part of the column definition. However, to define a constraint on more than one column—such as a primary-key constraint defined on two columns—you need to define the columns in the table first, then add the constraint definition at the end of the table definition. That constraint type is at the table level. In practice, you don't need to worry about the distinction because the syntax doesn't change.
+
+You can ensure data integrity by various means, including the use of triggers and other procedural code. But in part because constraints are ANSI-SQL compliant, they're the method Microsoft recommends. Different types of constraints address different types of integrity, and looking at constraints in the context of the integrity types they support and enforce can be helpful.
